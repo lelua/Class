@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jkULEVsGRPHwmekYS1yqqzchuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
+      <created>1604347524886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604347524886</updated>
+      <workItem from="1604347525936" duration="2557000" />
+      <workItem from="1604351129769" duration="357000" />
+      <workItem from="1604351507717" duration="138000" />
+      <workItem from="1604351665206" duration="968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="610" y="309" key="#Composer" timestamp="1604351161775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="610" y="309" key="#Composer/0.0.1600.860@0.0.1600.860" timestamp="1604351161775" />
+    <state x="576" y="342" key="ComposerInitDialogKey" timestamp="1604351599140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="342" key="ComposerInitDialogKey/0.0.1600.860@0.0.1600.860" timestamp="1604351599140" />
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1604350640879">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604350640879" />
+    <state x="678" y="328" key="Github.ShareDialog" timestamp="1604351245335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="678" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1604351245335" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604347548775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604347548775" />
+  </component>
+</project>
