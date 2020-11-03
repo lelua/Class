@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
+    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PHPandDatabase/Database-Connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +47,24 @@
       <workItem from="1604347525936" duration="2557000" />
       <workItem from="1604351129769" duration="357000" />
       <workItem from="1604351507717" duration="138000" />
-      <workItem from="1604351665206" duration="968000" />
+      <workItem from="1604351665206" duration="1298000" />
+      <workItem from="1604434464450" duration="1439000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="309" key="#Composer" timestamp="1604351161775">
@@ -68,9 +83,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="678" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1604351245335" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604347548775">
+    <state x="585" y="153" key="NewPhpClassDialog" timestamp="1604434608875">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604347548775" />
+    <state x="585" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1604434608875" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604436931720">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604436931720" />
   </component>
 </project>
