@@ -35,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -65,7 +67,9 @@
       <workItem from="1604351129769" duration="357000" />
       <workItem from="1604351507717" duration="138000" />
       <workItem from="1604351665206" duration="1298000" />
-      <workItem from="1604434464450" duration="2946000" />
+      <workItem from="1604434464450" duration="4844000" />
+      <workItem from="1604520603983" duration="842000" />
+      <workItem from="1604521741931" duration="48000" />
     </task>
     <servers />
   </component>
@@ -82,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="610" y="309" key="#Composer" timestamp="1604351161775">
@@ -92,10 +97,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="576" y="342" key="ComposerInitDialogKey/0.0.1600.860@0.0.1600.860" timestamp="1604351599140" />
-    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1604350640879">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1604521453219">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604350640879" />
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604521453219" />
     <state x="678" y="328" key="Github.ShareDialog" timestamp="1604351245335">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -108,5 +113,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604436931720" />
+    <state x="0" y="148" width="964" height="537" key="dock-window-1" timestamp="1604521455717">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="148" width="964" height="537" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1604521455717" />
   </component>
 </project>
