@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Include Exercise</title>
-    <link rel="stylesheet" href="CSS.css"
+    <link rel="stylesheet" href="CSS/style.css"
 </head>
 <body>
 <div id="header">
