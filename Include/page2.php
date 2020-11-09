@@ -1,1 +1,1 @@
-<?php
+<img src="Images/water.jpg">
