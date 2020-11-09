@@ -6,8 +6,8 @@
 </head>
 <body>
 <div id="header">
-<?php include "page1.php"; ?>
-Login, Pictures</div>
+    <?php include "Menu.php"; ?>
+    Login, Pictures</div>
 <div id="main">Contents</div>
 <div id="footer">Contact Information</div>
 </body>
