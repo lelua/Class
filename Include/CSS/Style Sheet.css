@@ -1,3 +1,16 @@
 body {
     background-color: lightsalmon;
 }
+
+#header ul {
+    background-color: lightblue;
+}
+
+#header li {
+    text-decoration: none;
+    color: green;
+    display: block;
+}
+#header a:hover {
+    font-size: 20px;
+}
