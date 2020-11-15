@@ -16,6 +16,6 @@ $result = mysqli_query($conn,$sql);
 //4. Show Result
 while ($row = $result->fetch_assoc()){
     ?>
-<li><a href=""><?php echo $row["name]"; ?></a></li>
+<li><a href=""><?php echo $row["name"]; ?></a></li>
 <?php
 }
