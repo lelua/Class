@@ -19,7 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
+    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Include/Images/CatFood1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/Images/CatFood2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/Images/DogFood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/Images/DogFood2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/Images/DogFood3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/addtocart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Images/Cat food 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Images/Dog Food 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Images/Dog Food 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Images/Dog Food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Images/cat food 2.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +95,7 @@
       <workItem from="1604521741931" duration="48000" />
       <workItem from="1604521972448" duration="3473000" />
       <workItem from="1604950449605" duration="8034000" />
-      <workItem from="1605123836392" duration="12981000" />
+      <workItem from="1605123836392" duration="15186000" />
     </task>
     <servers />
   </component>
@@ -125,10 +138,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="585" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1604434608875" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1605473797852">
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1605560964642">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1605473797852" />
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1605560964642" />
     <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604522427316">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
