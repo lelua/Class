@@ -1,1 +1,1 @@
-<img src="Images/water.jpg">
+<img src="">
