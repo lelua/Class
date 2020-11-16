@@ -8,14 +8,15 @@ $dbname = "ntlwav83cf7kfzeb";
 $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
 //2. Create Query
-$sql = "select * from category";
+$sql = "select * from products where category=1";
 
 //3. Execute Query on the Connection
 $result = mysqli_query($conn,$sql);
 
-//4. Show Result (In between the 'index.', add the heroku app page or the link to the page.)
+//4. Show Result (For This, Change the Names according to the myadmin Category Names and img src.)
 while ($row = $result->fetch_assoc()){
     ?>
-<li><a href="index.<?php echo $row["id"]; ?>"<?php echo $row["name"]; ?></a></li>
-<?php
+    <p><?php echo $row["name"]; ?></p>
+    <p><?php echo $row["price"]; ?></p>
+    <p><img src="<?php echo $row["image"]; ?>"</p>
 }
