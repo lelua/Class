@@ -22,3 +22,6 @@
     // Put the New Ordered Product Lists Back to Session variables.
     $_SESSION["orderedProductIDs"] = $orderedProductIDs;
     $_SESSION["orderedProductQtys"] = $orderedProductQtys;
+
+ // go back to previous page
+header('Location '. $_SERVER['HTTP_REFERER']);
