@@ -10,9 +10,10 @@ body {
     text-decoration: none;
     display: inline;
     font-size: 25px;
+    padding: 40px;
 }
 #header a:hover {
-    font-size: 15px;
+    font-size: 27px;
 }
 
 #login, #menu{
