@@ -9,7 +9,7 @@ while ($i<sizeof($orderedProductIDs)){
     $orderedProductID = $orderedProductIDs[$i];
     $orderedProductQty = $orderedProductQtys[$i];
     $productName = getProductNameByProductID($orderedProductID);
-    $price = getProductPriceByProductID($orderedProductID)
+    $price = getProductPriceByProductID($orderedProductID);
     echo "<p>Name: $productName Qty: $orderedProductQty Price: $price</p>";
     $i++;
 }

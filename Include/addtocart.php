@@ -11,13 +11,23 @@ $qty = $_POST["qty"];
     if (isset($_SESSION["orderedProductIDs"])){
         $orderedProductIDs = $_SESSION["orderedProductIDs"];
         $orderedProductQtys = $_SESSION["orderedProductQtys"];
+        if (in_array($productID, $orderedProductIDs)){
+            $index = array_search($productID, $orderedProductIDs);
+            $orderedProductQtys[$index] = $orderedProductQtys[$index] + $qty;
 
+        }else{
+            //this situation only happen if there is no same product in our shopping cart
+            array_push($orderedProductIDs, $productID); // append one at bottom of the array
+            array_push($orderedProductQtys, $qty);
+        }
     }else{
-        // If Nothing in our Shopping Cart Yet Then It will use this Code
+        //if nothing in our shopping cart yet
         $orderedProductIDs = [];
         $orderedProductQtys = [];
-        // array_push after this code.
+        array_push($orderedProductIDs, $productID); // append one at bottom of the array
+        array_push($orderedProductQtys, $qty);
     }
+
     // Put the New Ordered Product Lists Back to Session variables.
     $_SESSION["orderedProductIDs"] = $orderedProductIDs;
     $_SESSION["orderedProductQtys"] = $orderedProductQtys;
