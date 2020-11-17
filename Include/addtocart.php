@@ -1,8 +1,7 @@
 <?php
 // Take the Post from any Product. Take the Name from the Form Input = "Name".
-// $"name" = $_POST["name"];
-// $"qty" = $_POST["qty"];
-
+$productID = $_POST["productID"];
+$qty = $_POST["qty"];
 
 //1. Start a Session
 @session_start();
