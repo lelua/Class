@@ -10,7 +10,7 @@ body {
     text-decoration: none;
     display: inline;
     font-size: 25px;
-    padding-left: 20px;
+    padding: 20px;
 }
 #header a:hover {
     font-size: 27px;
