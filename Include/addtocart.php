@@ -1,4 +1,9 @@
 <?php
+$productID = $_POST["productID"];
+$qty = $_POST["qty"];
+echo $productID;
+echo $qty;
+/**
 // Take the Post from any Product. Take the Name from the Form Input = "Name".
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -38,3 +43,4 @@ $_SESSION["orderedProductQtys"] = $orderedProductQtys;
 
 // go back to previous page
 header('Location ' . $_SERVER['HTTP_REFERER']);
+*/
