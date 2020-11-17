@@ -11,7 +11,7 @@
     // If Something has Been In Our Shopping Cart Then it Will use this Code.
     if (isset($_SESSION["orderedProductIDs"])){
         $orderedProductIDs = $_SESSION["orderedProductIDs"];
-        $orderedProductQtys = $_SESSION["orderedProductQtys"]
+        $orderedProductQtys = $_SESSION["orderedProductQtys"];
 
     }else{
         // If Nothing in our Shopping Cart Yet Then It will use this Code
