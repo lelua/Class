@@ -36,10 +36,18 @@ if (isset($_POST["username"]) && isset ($_POST["password"])) {
         echo "wrong username or password";
     }
 }
-?>
 
-<form action="<?php $_SERVER["PHP_SELF"]; ?>" method="post">
-    <input name="username" type="text" placeholder="username">
-    <input name="password" type="password" placeholder="password">
-    <input type="submit" value="Post">
-</form>
+if (!isset($_SESSION["userID"])) {
+    ?>
+    <form action="<?php $_SERVER["PHP_SELF"]; ?>" method="post">
+        <input name="username" type="text" placeholder="Username">
+        <input name="password" type="password" placeholder="Password">
+        <input type="submit" value="Post">
+    </form>
+    <?php
+}else{
+
+    echo '<a href="logout.php">logout</a>';
+
+}
+?>
