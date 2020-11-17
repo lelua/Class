@@ -1,18 +1,17 @@
 body {
-    background-color: lightsalmon;
+    background-color: white;
 }
 
 #header ul {
-    background-color: lightblue;
+    padding: 15px;
 }
 
 #header li {
     text-decoration: none;
-    color: green;
-    display: block;
+    display: inline;
 }
 #header a:hover {
-    font-size: 20px;
+    font-size: 35px;
 }
 
 #login, #menu{
