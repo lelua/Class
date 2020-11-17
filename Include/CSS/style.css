@@ -21,4 +21,8 @@ body {
 }
 #main img {
     max-width: 200px;
+    position: center;
+}
+#main {
+    text-align: center;
 }
