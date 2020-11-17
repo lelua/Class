@@ -9,9 +9,10 @@ body {
 #header li {
     text-decoration: none;
     display: inline;
+    font-size: 25px;
 }
 #header a:hover {
-    font-size: 35px;
+    font-size: 15px;
 }
 
 #login, #menu{
