@@ -17,7 +17,8 @@ body {
 }
 
 #login, #menu{
-    display: inline-block;
+    position: center;
+    text-align: center;
 }
 #main img {
     max-width: 200px;
