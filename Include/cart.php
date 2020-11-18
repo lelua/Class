@@ -3,7 +3,7 @@
 
 $orderedProductIDs = $_SESSION["orderedProductIDs"];
 $orderedProductQtys = $_SESSION["orderedProductQtys"];
-
+$total=0;
 $i = 0;
 while ($i<sizeof($orderedProductIDs)){
     $orderedProductID = $orderedProductIDs[$i];
@@ -61,7 +61,7 @@ function getProductNameByProductID($productID){
     while ($row=$result->fetch_assoc()){
         $name = $row["name"];
     }
-    return name;
+    return $name;
 
 }
 
