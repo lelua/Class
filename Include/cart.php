@@ -3,6 +3,7 @@
 
 $orderedProductIDs = $_SESSION["orderedProductIDs"];
 $orderedProductQtys = $_SESSION["orderedProductQtys"];
+print_r($orderedProductQtys);
 $total=0;
 $i = 0;
 while ($i<sizeof($orderedProductIDs)){
