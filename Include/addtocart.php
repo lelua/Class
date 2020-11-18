@@ -2,10 +2,6 @@
 
 
 // Take the Post from any Product. Take the Name from the Form Input = "Name".
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
 $productID = $_POST["productID"];
 $qty = $_POST["qty"];
 
