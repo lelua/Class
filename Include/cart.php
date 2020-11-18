@@ -61,6 +61,7 @@ function getProductNameByProductID($productID){
     while ($row=$result->fetch_assoc()){
         $name = $row["name"];
     }
+    return name;
 
 }
 
@@ -82,7 +83,7 @@ function getProductPriceByProductID($productID){
     while ($row=$result->fetch_assoc()){
         $price = $row["price"];
     }
-
+    return $price;
 }
 
 $userID = $_SESSION["userID"];
