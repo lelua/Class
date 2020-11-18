@@ -11,15 +11,15 @@ $dbname = "ntlwav83cf7kfzeb";
 
 $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
-//2. Create Query
+//2. create a query
 $sql = "select * from category";
 
-//3. Execute Query on the Connection
+//3. run the query on that connection
 $result = mysqli_query($conn,$sql);
 
-//4. Show Result (In between the 'index.', add the heroku app page or the link to the page.)
+//4. show result
 while ($row = $result->fetch_assoc()){
     ?>
-<li><a href="index.php?category=<?php echo $row["id"]; ?>"><?php echo $row["name"]; ?></a></li>
-<?php
+    <li><a href="index.php?category=<?php echo $row["id"]; ?>"><?php echo $row["name"]; ?></a></li>
+    <?php
 }
