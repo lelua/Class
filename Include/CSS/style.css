@@ -17,13 +17,17 @@ body {
 }
 
 #login, #menu{
-    position: center;
-    text-align: center;
+  display: inline-block;
 }
 #main img {
     max-width: 200px;
     position: center;
 }
 #main {
+    text-align: center;
+}
+
+#userpass {
+    position: center;
     text-align: center;
 }

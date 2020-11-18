@@ -9,17 +9,17 @@
 
 <div id="header">
     <?php include "Menu.php"; ?>
-    <?php include "login.php"; ?>
     <?php include "headerimage.php"; ?>
 </div>
 
-<div>id="right"</div>
-<form action="<?php $_SERVER["PHP_SELF"]; ?>" method="post">
-    <input name="username" type="text" placeholder="Username">
-    <input name="password" type="password" placeholder="Password">
-    <input type="submit" value="Post">
-</form>
-<?php include "login.php"; ?>
+<div id="userpass">
+    <form action="<?php $_SERVER["PHP_SELF"]; ?>" method="post">
+        <input name="username" type="text" placeholder="Username">
+        <input name="password" type="password" placeholder="Password">
+        <input type="submit" value="Post">
+    </form>
+    <?php include "login.php"; ?>
+</div>
 
 <div id="main"</div>
     <h1>Products</h1>
