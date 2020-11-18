@@ -26,6 +26,8 @@ body {
 #main {
     text-align: center;
 }
-#header php include {
+
+#login {
     position: center;
+    text-align: center;
 }
