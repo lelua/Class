@@ -18,7 +18,6 @@
         <input name="password" type="password" placeholder="Password">
         <input type="submit" value="Post">
     </form>
-    <?php include "login.php"; ?>
 </div>
 
 <div id="main"</div>
