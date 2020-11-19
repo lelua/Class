@@ -4,6 +4,7 @@ body {
 }
 
 #header ul {
+    margin-top: 30px;
     text-decoration: none;
     text-align: center;
 }
@@ -38,4 +39,7 @@ a {
 #userpass {
     position: center;
     text-align: center;
+}
+#menuimagelogo {
+    margin-bottom: 30px;
 }
