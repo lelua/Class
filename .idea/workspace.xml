@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Include/Images/PetshopLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/Images/PuppyWeb.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,7 @@
       <workItem from="1604521741931" duration="48000" />
       <workItem from="1604521972448" duration="3473000" />
       <workItem from="1604950449605" duration="8034000" />
-      <workItem from="1605123836392" duration="50131000" />
+      <workItem from="1605123836392" duration="50537000" />
     </task>
     <servers />
   </component>
