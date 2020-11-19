@@ -8,10 +8,8 @@
 <body>
 
 <div id="header">
-    <?php include "Menu.php"; ?>
-</div>
-
-<div id="menuimage">
+    <?php include "menu.php"; ?>
+    <?php include "login.php"; ?>
     <?php include "puppyweb.php"; ?>
 </div>
 
