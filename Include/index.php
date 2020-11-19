@@ -10,7 +10,6 @@
 <div id="header">
     <?php include "Menu.php"; ?>
     <?php include "headerimage.php"; ?>
-    <img src="PuppyWeb.jpg">
 
 </div>
 
