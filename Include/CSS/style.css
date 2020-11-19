@@ -4,10 +4,7 @@ body {
 }
 
 #header ul {
-    position: absolute;
-    top: 23px;
-    text-align: center;
-    width: 80%;
+  text-align: center;
 }
 
 #header li {
@@ -40,8 +37,7 @@ a {
 }
 
 #userpass {
-    float: right;
-    width: 200px;
+    position: center;
 }
 #menuimagelogo img {
     position:absolute;
