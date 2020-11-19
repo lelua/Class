@@ -9,8 +9,10 @@
 
 <div id="header">
     <?php include "Menu.php"; ?>
-    <?php include "headerimage.php"; ?>
+</div>
 
+<div id="menuimage">
+    <?php include "puppyweb.php"; ?>
 </div>
 
 <div id="userpass">
