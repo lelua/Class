@@ -21,7 +21,7 @@ if (isset($_POST["username"]) && isset ($_POST["password"])) {
 
 //Show Results
     if ($result->num_rows == 1) {
-        echo "you have logged in";
+        echo "you have logged in ";
         while ($row = $result->fetch_assoc()) {
             echo $row["firstname"];
 
@@ -29,6 +29,7 @@ if (isset($_POST["username"]) && isset ($_POST["password"])) {
             @session_start();
 
             //Set a Session Variable
+            $_SESSION["userID"] = $row["id"];
             $_SESSION["firstname"] = $row["firstname"];
 
         }
