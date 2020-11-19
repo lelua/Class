@@ -10,7 +10,7 @@ body {
 #header li {
     text-decoration: none;
     display: inline;
-    font-size: 25px;
+    font-size: 14px;
     margin: 15px;
     padding: 15px;
     font-weight: 800;
@@ -40,5 +40,5 @@ a {
     text-align: center;
 }
 #menuimagelogo {
-    margin-bottom: 70px;
+    padding-bottom: 30px;
 }
