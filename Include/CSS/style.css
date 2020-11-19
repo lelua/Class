@@ -41,6 +41,6 @@ a {
 }
 #menuimagelogo img {
     position:absolute;
-    left:0;
-    top:0;
+    left:20px;
+    top:20px;
 }
