@@ -9,12 +9,14 @@
 
 <div id="header">
     <?php include "Menu.php"; ?>
-    <?php include "login.php"; ?>
-    <?php include "puppyweb.php"; ?>
 </div>
 
 <div id="userpass">
     <?php include "login.php"; ?>
+</div>
+
+<div id="menuimagelogo">
+    <?php include "puppyweb.php"; ?>
 </div>
 
 <div id="main"</div>

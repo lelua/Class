@@ -1,1 +1,1 @@
-<img src="Images/PetshopLogo.png" width="100%" height="100px">
+<img src="Images/PetshopLogo.png" width="270px">
