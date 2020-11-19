@@ -8,7 +8,7 @@
 <body>
 
 <div id="header">
-    <?php include "menu.php"; ?>
+    <?php include "Menu.phpenu.php"; ?>
     <?php include "login.php"; ?>
     <?php include "puppyweb.php"; ?>
 </div>
