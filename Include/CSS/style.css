@@ -4,8 +4,10 @@ body {
 }
 
 #header ul {
+    position: absolute;
+    top: 20px;
     text-align: center;
-    margin-top: 100px;
+    width: 100%;
 }
 
 #header li {
@@ -15,7 +17,6 @@ body {
     margin: 15px;
     padding: 15px;
     font-weight: 800;
-    margin-top: 100px;
 
 }
 
