@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #header ul {
@@ -12,6 +13,7 @@ body {
     font-size: 25px;
     margin: 15px;
     padding: 15px;
+    color: #000000;
 
 }
 #header a:hover {
