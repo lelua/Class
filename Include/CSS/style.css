@@ -34,8 +34,10 @@ a {
     max-width: 200px;
     margin-top: 50px;
 }
-#main {
+#main p{
     display: inline-block;
+}
+#main {
     margin-top: 50px;
 }
 
