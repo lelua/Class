@@ -7,7 +7,7 @@ body {
     position: absolute;
     top: 23px;
     text-align: center;
-    width: 100%;
+    width: 80%;
 }
 
 #header li {
@@ -41,7 +41,7 @@ a {
 
 #userpass {
     float: right;
-    width: 150px;
+    width: 200px;
 }
 #menuimagelogo img {
     position:absolute;
