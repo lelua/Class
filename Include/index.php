@@ -17,7 +17,7 @@
 </div>
 
 <div id="menuimagelogo">
-    <?php include "puppyweb.php"; ?>
+    <?php include "petlogo.php"; ?>
 </div>
 
 <div id="main"</div>

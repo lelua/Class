@@ -40,5 +40,7 @@ a {
     text-align: center;
 }
 #menuimagelogo img {
-    margin-bottom: 70px;
+    position:absolute;
+    left:0;
+    top:0;
 }
