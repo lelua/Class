@@ -4,6 +4,7 @@ body {
 }
 
 #header ul {
+  margin-top: auto;
   text-align: center;
 }
 
