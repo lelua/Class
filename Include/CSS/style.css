@@ -4,8 +4,6 @@ body {
 }
 
 #header ul {
-    margin-top: 30px;
-    text-decoration: none;
     text-align: center;
 }
 
@@ -20,6 +18,7 @@ body {
 
 a {
     color: #000000;
+    text-decoration: none;
 }
 #header a:hover {
     font-size: 30px;
@@ -41,5 +40,5 @@ a {
     text-align: center;
 }
 #menuimagelogo {
-    margin-bottom: 30px;
+    margin-bottom: 70px;
 }
