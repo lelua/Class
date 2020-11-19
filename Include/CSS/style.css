@@ -30,14 +30,11 @@ a {
   display: inline-block;
 }
 #main img {
-    display: inline-block;
     max-width: 200px;
     margin-top: 50px;
 }
-#main p{
-    display: inline-block;
-}
 #main {
+    text-align: center;
     margin-top: 50px;
 }
 
