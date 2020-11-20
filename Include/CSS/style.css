@@ -46,6 +46,8 @@ a {
 }
 
 #userpass {
+    position: absolute;
+    bottom: 100px;
     text-align: right;
 }
 #menuimagelogo img {
