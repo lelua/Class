@@ -42,11 +42,11 @@ a {
 }
 
 #main h1 {
-    margin-bottom: 40px;
+    position: fixed;
 }
 
 #userpass {
-    float: right;
+    text-align: right;
 }
 #userpass a {
     font-weight: 700;
