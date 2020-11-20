@@ -20,12 +20,9 @@
     <?php include "petlogo.php"; ?>
 </div>
 
-<div id="main"</div>
+<div id="main">
     <h1>Products</h1>
     <?php include "products.php"; ?>
-<div id="cart-des">
-    <?php include "cart.php"; ?>
-    <?php include "Menu.php"; ?>
 </div>
 
 
