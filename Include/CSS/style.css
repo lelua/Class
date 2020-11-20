@@ -21,26 +21,26 @@ a {
     cursor: pointer;
     color: rgba(0,0,0,0.23);
 }
-#main img {
+#products img {
     max-width: 200px;
 }
-#main {
+#products {
     text-align: center;
 }
-#main p {
+#products p {
     font-weight: 700;
 }
-#main h1 {
+#products h1 {
     text-align: center;
 }
-#userpass {
+#login {
     text-align: right;
 }
-#userpass a {
+#login a {
     font-weight: 700;
     padding-left: 15px;
 }
-#menuimagelogo img {
+#petlogo img {
     position:absolute;
     left:20px;
     top:20px;

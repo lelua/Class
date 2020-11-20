@@ -12,15 +12,15 @@
     <?php include "Menu.php"; ?>
 </div>
 
-<div id="userpass">
+<div id="login">
     <?php include "login.php"; ?>
 </div>
 
-<div id="menuimagelogo">
+<div id="petlogo">
     <?php include "petlogo.php"; ?>
 </div>
 
-<div id="main">
+<div id="products">
     <h1>Products</h1>
     <?php include "products.php"; ?>
 </div>
