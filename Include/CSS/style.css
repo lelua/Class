@@ -22,7 +22,9 @@ a {
     text-decoration: none;
 }
 #header a:hover {
-    font-size: 30px;
+    cursor: pointer;
+    color: rgba(0,0,0,0.23);
+
 }
 
 #login, #menu{
