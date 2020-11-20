@@ -4,8 +4,8 @@ body {
 }
 
 #header ul {
-  margin-top: auto;
-  text-align: center;
+    text-align: center;
+
 }
 
 #header li {
@@ -54,5 +54,8 @@ a {
 }
 .addtocart {
     margin-bottom: 65px;
+}
+.menulist {
+    margin-top: 50px;
 }
 
