@@ -26,6 +26,7 @@ a {
 }
 #main {
     text-align: center;
+    margin-bottom: 100px;
 }
 #main p {
     font-weight: 700;
