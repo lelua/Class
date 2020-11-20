@@ -10,7 +10,6 @@
 
 <div id="header">
     <?php include "Menu.php"; ?>
-    <?php include "register.php"; ?>
 </div>
 
 <div id="userpass">
