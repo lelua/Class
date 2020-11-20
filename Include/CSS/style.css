@@ -6,14 +6,13 @@ body {
 #header ul {
     text-align: right;
 }
-
 #header li {
     text-decoration: none;
-    display: inline;
+    display: inline-block;
     font-size: 14px;
-    margin-bottom: 30px;
     padding: 20px;
     font-weight: 800;
+    margin-bottom: 50px;
 }
 a {
     color: #000000;
@@ -22,9 +21,7 @@ a {
 #header a:hover {
     cursor: pointer;
     color: rgba(0,0,0,0.23);
-
 }
-
 #main img {
     max-width: 200px;
 }
@@ -34,10 +31,8 @@ a {
 #main p {
     font-weight: 700;
 }
-
 #main h1 {
     text-align: center;
-
 }
 #userpass {
     text-align: right;
