@@ -22,11 +22,6 @@
 
 <div id="main">
     <h1>Products</h1>
-    <style>
-        p {
-            margin-top: 20px;
-        }
-    </style>
     <?php include "products.php"; ?>
 </div>
 
