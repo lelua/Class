@@ -42,12 +42,15 @@ a {
 }
 
 #userpass {
-    text-align: ;
+    text-align: right;
+    margin-bottom: 100px;
 }
+
 #userpass a {
     font-weight: 700;
     padding-left: 15px;
 }
+
 #menuimagelogo img {
     position:absolute;
     left:20px;
