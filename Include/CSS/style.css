@@ -47,7 +47,8 @@ a {
 }
 
 .userpass {
-    margin-bottom: 120px
+    position: relative;
+    width: 100%;
 }
 
 #userpass a {
