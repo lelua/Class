@@ -46,8 +46,8 @@ a {
 
 }
 
-#userpass {
-    text-align: right;
+.userpass {
+    margin-top: 120px
 }
 
 #userpass a {
