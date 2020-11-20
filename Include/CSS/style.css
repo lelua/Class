@@ -38,12 +38,9 @@ a {
 
 #main h1 {
     text-align: center;
-
 }
-
 #userpass {
     text-align: right;
-    margin-bottom: 100px;
 }
 
 #userpass a {
@@ -58,9 +55,6 @@ a {
 }
 .addtocart {
     margin-bottom: 65px;
-}
-.menulist {
-    margin-top: 50px;
 }
 #footer p {
     text-align: center;

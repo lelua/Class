@@ -12,10 +12,6 @@
     <?php include "Menu.php"; ?>
 </div>
 
-<div id="userpass">
-    <?php include "login.php"; ?>
-</div>
-
 <div id="menuimagelogo">
     <?php include "petlogo.php"; ?>
 </div>
