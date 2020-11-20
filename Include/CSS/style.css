@@ -47,7 +47,10 @@ a {
 
 #userpass {
     float: right;
-
+}
+#userpass a {
+    font-weight: 700;
+    padding-left: 15px;
 }
 #menuimagelogo img {
     position:absolute;
