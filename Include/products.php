@@ -24,6 +24,7 @@ $result = mysqli_query($conn,$sql);
 //4. show result
 while ($row = $result->fetch_assoc()){
     ?>
+
     <div class="producttext">
         <p><?php echo $row["name"]; ?></p>
         <p><?php echo $row["price"]; ?></p>
