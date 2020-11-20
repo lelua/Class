@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Include/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/register.php" afterDir="false" />
-    </list>
+    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1604521741931" duration="48000" />
       <workItem from="1604521972448" duration="3473000" />
       <workItem from="1604950449605" duration="8034000" />
-      <workItem from="1605123836392" duration="73352000" />
+      <workItem from="1605123836392" duration="73673000" />
     </task>
     <servers />
   </component>
@@ -116,6 +113,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1605646781643" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605851915970">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1605851915970" />
     <state x="576" y="342" key="ComposerInitDialogKey" timestamp="1604351599140">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
