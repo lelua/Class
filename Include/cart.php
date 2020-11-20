@@ -12,7 +12,7 @@ while ($i<sizeof($orderedProductIDs)){
     $productName = getProductNameByProductID($orderedProductID);
     $price = getProductPriceByProductID($orderedProductID);
     echo "<p style='font-weight: 700'>Name: $productName Qty: $orderedProductQty Unit Price: $price
-         Price: ".floatval(ltrim($price, '$'))*$orderedProductQty."</p>";
+         ".floatval(ltrim($price, '$'))*$orderedProductQty."</p>";
     $total = $total + floatval(ltrim($price, '$'))*$orderedProductQty;
     $i++;
 }
