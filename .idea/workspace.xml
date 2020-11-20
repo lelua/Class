@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="" />
+    <list default="true" id="a4530735-74b6-4c84-855a-6083aea551d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Include/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Include/registerForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/Include/Menu.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +38,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,7 +87,7 @@
       <workItem from="1604521741931" duration="48000" />
       <workItem from="1604521972448" duration="3473000" />
       <workItem from="1604950449605" duration="8034000" />
-      <workItem from="1605123836392" duration="73673000" />
+      <workItem from="1605123836392" duration="76286000" />
     </task>
     <servers />
   </component>
@@ -133,10 +138,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="585" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1604434608875" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1605827615677">
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1605853771765">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1605827615677" />
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1605853771765" />
     <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605783581793">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
