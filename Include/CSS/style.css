@@ -28,6 +28,7 @@ a {
     text-align: center;
 }
 #products p {
+    margin-top: 15px;
     font-weight: 700;
 }
 #products h1 {
@@ -46,7 +47,7 @@ a {
     top:20px;
 }
 .addtocart {
-    padding-top: 45px;
+    margin-top: 25px;
 }
 #footer p {
     text-align: center;
