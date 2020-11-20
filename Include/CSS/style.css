@@ -38,6 +38,10 @@ a {
     margin-top: 50px;
 }
 
+#main p {
+    font-weight: 700;
+}
+
 #userpass {
     text-align: right;
 }
@@ -46,3 +50,4 @@ a {
     left:20px;
     top:20px;
 }
+
