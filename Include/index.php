@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<div id="header">
+<div id="menu">
     <?php include "Menu.php"; ?>
 </div>
 
