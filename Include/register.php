@@ -6,11 +6,11 @@ $password = $_POST["password"];
 $address = $_POST["address"];
 $phone = $_POST["phone"];
 if ($firstname == "" || $lastname==""){
-    //1. connect to database
-    $server = "klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-    $dbusername = "t8jnow42fmp1smpt";
-    $dbpassword = "fdavedw769oxw5pd";
-    $dbname = "k2nfay1osz1i59kc";
+    // create database connection
+    $server = "nba02whlntki5w2p.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+    $dbusername = "k4j7jgjpv0fuxdca";
+    $dbpassword = "ltbt9xigi8kadool";
+    $dbname = "ntlwav83cf7kfzeb";
 
     $conn = new mysqli($server, $dbusername, $dbpassword, $dbname);
 
