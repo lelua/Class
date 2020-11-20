@@ -49,9 +49,7 @@ a {
 #userpass {
     text-align: right;
 }
-#userpass form {
-    margin-bottom: 200px;
-}
+
 #userpass a {
     font-weight: 700;
     padding-left: 15px;

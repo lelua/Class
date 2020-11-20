@@ -12,10 +12,6 @@
     <?php include "Menu.php"; ?>
 </div>
 
-<div id="userpass">
-    <?php include "login.php"; ?>
-</div>
-
 <div id="menuimagelogo">
     <?php include "petlogo.php"; ?>
 </div>
@@ -24,7 +20,6 @@
     <h1>Products</h1>
     <?php include "products.php"; ?>
 </div>
-
 
 <div id="footer">
     <p>PetShop New Zealand 2020</p>
