@@ -36,7 +36,6 @@ a {
 }
 #userpass {
     text-align: right;
-    margin-top: -90px;
 }
 #userpass a {
     font-weight: 700;
@@ -52,7 +51,4 @@ a {
 }
 #footer p {
     text-align: center;
-}
-.producttext, .productimg, .addtocart {
-    margin-bottom: 100px;
 }
