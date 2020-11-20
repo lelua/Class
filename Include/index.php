@@ -25,6 +25,10 @@
     <?php include "products.php"; ?>
 </div>
 
+<div id="register">
+    <?php include "registerForm.html"; ?>
+</div>
+
 
 <div id="footer">Contact Information</div>
 </body>
