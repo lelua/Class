@@ -48,6 +48,8 @@ a {
 
 #userpass {
     text-align: right;
+}
+#userpass form {
     margin-bottom: 200px;
 }
 #userpass a {
