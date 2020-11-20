@@ -24,9 +24,12 @@ $result = mysqli_query($conn,$sql);
 //4. show result
 while ($row = $result->fetch_assoc()){
     ?>
-    <div>
+    <div class="producttext">
         <p><?php echo $row["name"]; ?></p>
         <p><?php echo $row["price"]; ?></p>
+    </div>
+
+    <div class="productimg">
         <p><img src="<?php echo $row["image"]; ?>"</p>
     </div>
 
