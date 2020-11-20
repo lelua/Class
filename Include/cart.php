@@ -20,12 +20,12 @@ echo "<p>Total: $total</p>";
 
 if (isset($_SESSION["userID"])){
 ?>
-
-<form action="checkout.php" method="post">
-    <textarea name="shippingAddress" rows="10" cols="50"></textarea>
-    <input type="submit" value="Checkout">
-
-</form>
+<div class="cartform">
+    <form action="checkout.php" method="post">
+        <textarea name="shippingAddress" rows="10" cols="50"></textarea>
+        <input type="submit" value="Checkout">
+    </form>
+</div>
 
 <?php
 }else{

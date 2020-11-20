@@ -25,10 +25,6 @@
     <?php include "products.php"; ?>
 </div>
 
-<div id="cart">
-    <?php include "cart.php"; ?>
-</div>
-
 <div id="footer">
     <p>PetShop New Zealand 2020</p>
 </div>
