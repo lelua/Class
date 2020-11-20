@@ -4,7 +4,7 @@ body {
 }
 
 #header ul {
-    text-align: center;
+    text-align: right;
 }
 
 #header li {
@@ -58,5 +58,8 @@ a {
 }
 .menulist {
     margin-top: 50px;
+}
+#footer p {
+    text-align: center;
 }
 

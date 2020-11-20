@@ -26,6 +26,9 @@
 </div>
 
 
-<div id="footer">Contact Information</div>
+<div id="footer">
+    <p>PetShop New Zealand 2020</p>
+</div>
+
 </body>
 </html>
