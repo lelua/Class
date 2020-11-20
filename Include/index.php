@@ -23,7 +23,10 @@
 <div id="main"</div>
     <h1>Products</h1>
     <?php include "products.php"; ?>
-
+<div id="cart-des">
+    <?php include "cart.php"; ?>
+    <?php include "Menu.php"; ?>
+</div>
 
 
 <div id="footer">Contact Information</div>

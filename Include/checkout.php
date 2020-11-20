@@ -16,7 +16,7 @@ while ($i<sizeof($orderedProductIDs)){
     $i++;
 }
 
-// Fix This.
+
 echo "<p>Total: $total</p>";
 
 function createDatabaseConnection(){
