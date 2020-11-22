@@ -8,28 +8,29 @@
 </head>
 <body>
 
+<div id="login">
+    <?php include "login.php"; ?>
+</div>
+
 <div id="menu">
     <?php include "Menu.php"; ?>
 </div>
 
-<div id="login">
-    <?php include "login.php"; ?>
-</div>
 
 <div id="petlogo">
     <?php include "petlogo.php"; ?>
 </div>
 
-<div id="puppyimage">
+<div class="container">
     <?php include "puppy.php"; ?>
+    <div class="centertext"><h1>WELCOME TO PET SHOP NEW ZEALAND</h1><br>
+    <p>One Stop Shop For All Your Pet Needs</p></div>
 </div>
 
 <div id="products">
     <h1>Products</h1>
     <?php include "products.php"; ?>
 </div>
-
-
 
 <div id="footer">
     <p>PetShop New Zealand 2020</p>

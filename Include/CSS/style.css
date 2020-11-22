@@ -55,4 +55,17 @@ a {
     text-align: center;
 }
 
-
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.container img {
+    opacity: 30%;
+}
+.centertext h1 {
+    font-weight: 800;
+}
+.centertext p {
+    font-weight: 700;
+}
