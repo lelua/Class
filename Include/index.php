@@ -25,6 +25,10 @@
     <?php include "products.php"; ?>
 </div>
 
+<div id="puppyimage">
+    <?php include "puppy.php"; ?>
+</div>
+
 
 <div id="footer">
     <p>PetShop New Zealand 2020</p>
