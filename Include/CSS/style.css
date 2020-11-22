@@ -69,9 +69,8 @@ a {
     left: 50%;
     transform: translate(-50%, -70%);
     font-weight: 800;
-    font-size: 50px;
-    padding: 50px;
-    
+    font-size: 80px;
+    margin-bottom: 20px;
 }
 .container p {
     position: absolute;
@@ -79,5 +78,4 @@ a {
     left: 50%;
     transform: translate(-50%, -30%);
     font-weight: 700;
-    padding: 50px;
 }
