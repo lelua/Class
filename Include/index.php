@@ -22,7 +22,7 @@
 </div>
 
 <div class="container">
-    <img src="Images/puppyweb.jpg">
+    <? php include_once "puppy.php"; ?>
     <h1>WELCOME TO PET SHOP NEW ZEALAND</h1>
     <p>One Stop Shop For All Your Pet Needs</p>
 
