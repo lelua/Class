@@ -20,14 +20,15 @@
     <?php include "petlogo.php"; ?>
 </div>
 
+<div id="puppyimage">
+    <?php include "puppy.php"; ?>
+</div>
+
 <div id="products">
     <h1>Products</h1>
     <?php include "products.php"; ?>
 </div>
 
-<div id="puppyimage">
-    <?php include "puppy.php"; ?>
-</div>
 
 
 <div id="footer">
