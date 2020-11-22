@@ -67,14 +67,15 @@ a {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50px, -200px);
+    transform: translate(-50%, -70%);
     font-weight: 800;
-
+    padding: 30px;
+    
 }
 .container p {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50px, -30px);
+    transform: translate(-50%, -30%);
     font-weight: 700;
 }
