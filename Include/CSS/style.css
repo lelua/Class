@@ -58,14 +58,14 @@ a {
 .container {
     position: relative;
     text-align: center;
-    color: white;
+    color: black;
 }
 .container img {
     opacity: 30%;
 }
-.centertext h1 {
+.container h1 {
     font-weight: 800;
 }
-.centertext p {
+.container p {
     font-weight: 700;
 }

@@ -23,8 +23,6 @@
 
 <div class="container">
     <?php include "puppy.php"; ?>
-    <div class="centertext"><h1>WELCOME TO PET SHOP NEW ZEALAND</h1><br>
-    <p>One Stop Shop For All Your Pet Needs</p></div>
 </div>
 
 <div id="products">
