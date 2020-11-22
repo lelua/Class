@@ -69,7 +69,8 @@ a {
     left: 50%;
     transform: translate(-50%, -70%);
     font-weight: 800;
-    padding: 30px;
+    font-size: 50px;
+    padding: 50px;
     
 }
 .container p {
@@ -78,4 +79,5 @@ a {
     left: 50%;
     transform: translate(-50%, -30%);
     font-weight: 700;
+    padding: 50px;
 }
