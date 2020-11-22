@@ -77,5 +77,6 @@ a {
     left: 50%;
     transform: translate(-50%, -30%);
     font-weight: 700;
-    margin-top: 120px;
+    font-size: 45px;
+    margin-top: 140px;
 }
