@@ -25,7 +25,7 @@ a {
     max-width: 200px;
 }
 #products {
-    display: inline-block;
+    text-align: left;
 }
 #products p {
     margin-top: 15px;
