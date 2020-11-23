@@ -86,7 +86,7 @@ function createAnOrder($userID, $shippingAddress, $datetime){
     mysqli_query($conn, $sql);
     //4 I need my OrderID
     $orderID = mysqli_insert_id($conn);
-    return orderID;
+    return $orderID;
 }
 
 function insertProductToOrderedTable($orderID, $productID, $qty){
