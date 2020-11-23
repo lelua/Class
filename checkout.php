@@ -112,3 +112,11 @@ while ($i < sizeof($orderedProductIDs)){
 //Clear my Shopping Cart
 $_SESSION["orderedProductIDs"] = [];
 $_SESSION["orderedProductQtys"] = [];
+
+//Back to Home
+?>
+    <form action="index.php" method="post">
+        <input type="submit" value="BACK TO HOME">
+    </form>
+
+<?php
