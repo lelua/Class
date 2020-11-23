@@ -25,7 +25,7 @@ a {
     max-width: 200px;
 }
 #products {
-    text-align: left;
+    text-align: center;
 }
 #products p {
     margin-top: 15px;
@@ -80,12 +80,4 @@ a {
     font-size: 26px;
     margin-top: 140px;
 }
-.producttext {
-    display: inline-block;
-}
-.productimg {
-    display: inline-block;
-}
-.addtocart {
-    display: inline-block;
-}
+
