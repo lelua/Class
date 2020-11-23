@@ -33,7 +33,8 @@ while ($row = $result->fetch_assoc()){
     // Run Second Query
     $result2 = mysqli_query($conn, $sql2);
     while ($row2 = $result2->fetch_assoc()){
-        echo "<h3>ID: ".$row2["productID"]." Qty: ".$row2["qty"]."</h3>";
+        echo "<h3>ID: ".$row2["productID"]."
+        QUANTITY: ".$row2["qty"]."</h3>";
     }
 }
 ?>
