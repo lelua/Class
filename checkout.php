@@ -4,7 +4,7 @@
 $orderedProductIDs = $_SESSION["orderedProductIDs"];
 $orderedProductQtys = $_SESSION["orderedProductQtys"];
 
-$total=0;
+$total = 0;
 $i = 0;
 while ($i<sizeof($orderedProductIDs)){
     $orderedProductID = $orderedProductIDs[$i];
