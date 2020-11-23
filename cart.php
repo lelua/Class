@@ -11,12 +11,12 @@ while ($i<sizeof($orderedProductIDs)){
     $orderedProductQty = $orderedProductQtys[$i];
     $productName = getProductNameByProductID($orderedProductID);
     $price = getProductPriceByProductID($orderedProductID);
-    echo "<p> Name: $productName Qty: $orderedProductQty Unit Price: $price
+    echo "<p> Name: $productName<br>Qty: $orderedProductQty<br>Unit Price: $price
          ".floatval(ltrim($price, '$'))*$orderedProductQty."</p>";
     $total = $total + floatval(ltrim($price, '$'))*$orderedProductQty;
     $i++;
 }
-echo "<p>Total: $total</p>";
+echo "<p>Shopping Total: $total</p>";
 
 if (isset($_SESSION["userID"])){
 ?>

@@ -14,9 +14,6 @@
 
 <div id="menu">
     <?php include "Menu.php"; ?>
-    <style>
-        <?php include "CSS/style.css"; ?>
-    </style>
 </div>
 
 
