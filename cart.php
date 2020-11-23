@@ -22,12 +22,16 @@ if (isset($_SESSION["userID"])){
 ?>
     <form action="checkout.php" method="post">
         <textarea name="shippingAddress" rows="10" cols="50"></textarea>
-        <input type="submit" value="Checkout">
+        <br>
+        <input type="submit" value="CHECKOUT">
+    </form>
+    <form action="index.php" method="post">
+        <input type="submit" value="BACK TO HOME">
     </form>
 
 <?php
 }else{
-    echo "you need to login";
+    echo "Please Login To Complete Your Order.";
 }
 
 function createDatabaseConnection(){
