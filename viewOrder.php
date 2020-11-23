@@ -36,5 +36,9 @@ while ($row = $result->fetch_assoc()){
         echo "<p>ID: ".$row2["productID"]." Qty: ".$row2["qty"]."</p>";
     }
 }
+?>
+    <form action="index.php" method="post">
+        <input type="submit" value="BACK TO HOME">
+    </form>
 
-echo "<a href='index.php'>Home</a>";
+<?php
