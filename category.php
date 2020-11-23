@@ -20,7 +20,6 @@ $result = mysqli_query($conn,$sql);
 //4. show result
 while ($row = $result->fetch_assoc()){
     ?>
-    <li><a href="products.php?category=<?php echo $row["id"]; ?>"><?php echo $row["name"]; ?></a></li>
+    <li><a href="index.php?category=<?php echo $row["id"]; ?>"><?php echo $row["name"]; ?></a></li>
     <?php
 }
-include "Menu.php";
