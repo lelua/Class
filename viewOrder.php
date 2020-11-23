@@ -24,16 +24,16 @@ $result = mysqli_query($conn, $sql);
 
 //4 Show First Query Results
 while ($row = $result->fetch_assoc()){
-    echo "<h3>Order Number: ".$row["orderNum"]."</h3>";
-    echo "<h3>Shipping Address: ".$row["shipAddress"]."</h3>";
-    echo "<h3>Time: ".$row["orderdate"]."</h3>";
+    echo "<h3>ORDER NUMBER: ".$row["orderNum"]."</h3>";
+    echo "<h3>SHIPPING ADDRESS: ".$row["shipAddress"]."</h3>";
+    echo "<h3>TIME OF ORDER: ".$row["orderdate"]."</h3>";
 
     // Second Query
     $sql2 = "select * from orderedProducts where orderID = ".$row["orderNum"];
     // Run Second Query
     $result2 = mysqli_query($conn, $sql2);
     while ($row2 = $result2->fetch_assoc()){
-        echo "<p>ID: ".$row2["productID"]." Qty: ".$row2["qty"]."</p>";
+        echo "<h3>ID: ".$row2["productID"]." Qty: ".$row2["qty"]."</h3>";
     }
 }
 ?>
