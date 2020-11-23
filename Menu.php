@@ -8,7 +8,7 @@
     @session_start();
     if (isset($_SESSION["userID"])){
         ?>
-        <li><a href="viewOrder.php">My Orders</a> </li>
+        <li><a href="viewOrder.php">MY ORDERS</a> </li>
         <?php
     }
     ?>
