@@ -81,5 +81,11 @@ a {
     margin-top: 140px;
 }
 .producttext {
-    text-align: center;
+    display: inline-block;
+}
+.productimg {
+    display: inline-block;
+}
+.addtocart {
+    display: inline-block;
 }
